@@ -48,3 +48,4 @@ function megaFriend([a, b, c, d]) {
     }
     return friendsName;
 }
+

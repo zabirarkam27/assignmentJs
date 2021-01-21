@@ -9,11 +9,13 @@ function kilometerToMeter(kilometer) {
     }
 }
 
+
 /*budgetCalculator*/
 function budgetCalculator(noOfWatch, noOfMobile, noOfLaptop) {
     var totalPrice = noOfWatch * 1500 + noOfMobile * 10000 + noOfLaptop * 50000;
     return totalPrice
 }
+
 
 /*hotelCost*/
 function hotelCost(nights) {
@@ -34,6 +36,7 @@ function hotelCost(nights) {
     }
     return cost;
 }
+
 
 /*megaFriend*/
 function megaFriend([a, b, c, d]) {

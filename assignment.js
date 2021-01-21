@@ -2,7 +2,7 @@
 function kilometerToMeter(kilometer) {
     var meter = kilometer * 1000;
     if (kilometer < 0) {
-        console.log("Ha Ha Ha. Are you crazy? Is the length ever negative?");
+        console.log("Ha Ha Ha. Are you crazy? Is the distance ever negative?");
     }
     else {
         return meter;

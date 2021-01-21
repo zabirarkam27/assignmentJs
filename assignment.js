@@ -45,14 +45,3 @@ function megaFriend([a, b, c, d]) {
     }
     return friendsName;
 }
-
-
-
-
-
-
-console.log(kilometerToMeter(-3));
-console.log(budgetCalculator(1, 1, 1));
-console.log(hotelCost(1));
-console.log(megaFriend("Zabir Arkam", "sonu", "Zabir", "Mariom begum"));
-

@@ -61,7 +61,7 @@ function megaFriend() {
 }
 
 
-console.log(kilometerToMeter(13));
-console.log(budgetCalculator(1, 1, 1));
-console.log(hotelCost(21));
-console.log(megaFriend('Zabir', 'Moshiur', 'Aklima', 'Mariam Begum', 'Abdus Sattar'));
+//console.log(kilometerToMeter(13));
+//console.log(budgetCalculator(1, 1, 1));
+//console.log(hotelCost(21));
+//console.log(megaFriend('Zabir', 'Moshiur', 'Aklima', 'Mariam Begum', 'Abdus Sattar'));
